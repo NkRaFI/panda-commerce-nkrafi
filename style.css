@@ -1,0 +1,56 @@
+/* carousel start*/
+.panda-btn{
+    background-image: linear-gradient(to bottom, #6658ff 0%, #1713ff 100%);
+    color: #fff;
+    border: none;
+}
+.panda-carousel-tv{
+    background-color: #feeae9;
+    border-radius: 20px;
+}
+.panda-carousel-headphone{
+    background-color: #f6a05d;
+    border-radius: 20px;
+}
+.panda-carousel-xbox{
+    background-color: #e2e2e2;
+    border-radius: 20px;
+}
+/* carousel end */
+
+/* catagories start */
+.catagories img{
+    width: 100px;
+}
+.ct-bag-1{
+    background-color: #631103;
+    border-radius: 5px;
+}
+.ct-bag-2{
+    background-color: #363636;
+    border-radius: 5px;
+}
+.ct-bag-3{
+    background-color: #F24159;
+    border-radius: 5px;
+}
+
+/* catagories end */
+
+/* card section start */
+.panda-card-footer{
+    border: none;
+    background-color: white;
+}
+.panda-card{
+    border: none;
+}
+/* card section end */
+
+/* subscribe section start*/
+#subscribe{
+    height: 300px;
+    background-color: #f6a05d;
+    border-radius: 10px;
+}
+/*subscribe section end*/
